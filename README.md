@@ -42,7 +42,7 @@ Endpoint
 - POST /api/login
 - GET /api/products
 - POST /api/products (admin)
-- GET /api/gudang
+- GET /api/storage
 - GET /api/profile
 
 Author
